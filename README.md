@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Javascript
+- 🎧 I’m currently learning Javascript
 
 <p align="center">
   <a href="https://skillicons.dev">
